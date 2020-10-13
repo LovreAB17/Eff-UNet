@@ -13,3 +13,4 @@ U-Net network architecture for semantic segmentation with EfficientNet-B0 encode
 	- opencv-python >= 4.4.0.44
 	- catalyst >= 20.3.3
 	- albumentations >= 0.4.5
+	- comet-ml >= 3.1.3
