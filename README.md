@@ -1,7 +1,12 @@
 # Eff-UNet
-U-Net network architecture for semantic segmentation with EfficientNet-B0 encoder
+Implementation of U-Net network architecture for semantic segmentation with EfficientNet-B0 encoder using PyTorch.
 
 ![Eff-UNet](https://github.com/LovreAB17/Eff-UNet/blob/main/effunet.jpg?raw=true)
+
+Model:
+- Total params: 5,831,968
+- Trainable params: 5,831,968
+- Non-trainable params: 0
 
 ## Prerequisites
 - Python 3
